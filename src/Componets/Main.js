@@ -5,8 +5,8 @@ function Main() {
   return (
     <div>
          <div>
-         <Link to="Page1" className='text-blue-400 font-bold text-2xl md:text-3xl'>page1</Link>
-         <Link to='Page2' className='text-blue-400 font-bold text-2xl md:text-3xl'>page2</Link>
+         <Link to="Page1" className='text-blue-400 bg-red-900 font-bold text-xl md:text-xl'>Page1</Link>
+         <Link to='Page2' className='text-blue-400 font-bold bg-red-900 text-xl md:text-xl'>-Page2</Link>
          </div>
 
 
